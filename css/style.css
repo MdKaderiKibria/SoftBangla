@@ -38,6 +38,9 @@ header{
     font-family: 'Poppins', sans-serif;
     font-weight: 900;
 }
+.navbar-toggler:focus {
+    box-shadow: none;
+}
 .nav-link{
     font-size: 20px;
     color: black !important;
