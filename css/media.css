@@ -1,0 +1,442 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media(max-width:575.98px){
+   /* global css start */
+   .py-100{
+    padding: 50px 0px;
+    }
+    .pt-100{
+    padding-top: 50px;
+    }
+    .pb-100{
+    padding-bottom: 50px;
+    }
+    .sec-heading {
+    font-size: 2rem;
+    }
+    /* global css end */
+    /* banner start */
+    .banner {
+    min-height: 750px;
+
+    }
+    .banner-img-wrap img {
+    width: 25%;
+    }
+    .banner-img1 {
+    top: 16% !important;
+    left: 35%;
+    margin-top: 40px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    }
+    .banner-img2 {
+    top: 16% !important;
+    left: 44%;
+    margin-top: 90px;
+    border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    -ms-border-radius: 20px;
+    -o-border-radius: 20px;
+    }
+    .wave {
+    bottom: -121px;
+    }
+    .banner h1 {
+    margin-top: 75px;
+    margin-right: 0px;
+    font-size: 1.7rem;
+    }
+    .banner p{
+    font-size: 16px;
+    }
+    .btn-white {
+    font-size: 1em;
+    padding: 10px 13px;
+    }
+    /* banner end */
+    /* feature start */
+    .feature-icon {
+    width: 110px;
+    height: 110px;
+    }
+    .feature-icon i {
+    font-size: 1.5rem;
+    }
+    /* feature end */
+    /* profile start */
+    .pro-box h4 {
+    font-size: 28px;
+    }
+    .pro-box p{
+    font-size: 16px;
+    }
+
+    /* profile end */
+    /* communicate start */
+    .communicate-text p {
+    font-size: 16px;
+    }
+    .communicate-text h2 {
+    font-size: 1.7rem;
+    }
+    /* communicate end */
+    /* apps start */
+    .apps h1 {
+    font-size: 2rem;
+    }
+    .button-group {
+    margin-top: 8%;
+    text-align: center;
+    }
+    .button-group a:first-child{
+    margin-left: 7px;
+    }
+    .button-group a{
+    display: block;
+    margin-top: 10px;
+    }
+    /* apps end */
+
+    /* footer start */
+    .footer-about p {
+    font-size: 16px;
+    }
+    .footer-icons-single {
+    width: 35px;
+    height: 35px;
+    }
+    .footer-icons-single i {
+    font-size: 15px;
+    }
+    /* footer end */ 
+    .fixed-fb {
+    font-size: 13px;
+    width: 158px;
+    height: 60px;
+    } 
+}
+
+/* small devices (landscape phones, 576px and up) */
+@media(min-width:576px) and (max-width:767.98px){
+    /* global css start */
+    .py-100{
+        padding: 50px 0px;
+    }
+    .pt-100{
+        padding-top: 50px;
+    }
+    .pb-100{
+        padding-bottom: 50px;
+    }
+    .sec-heading {
+        font-size: 2.2rem;
+    }
+    /* global css end */
+    /* banner start */
+    .banner {
+        min-height: 900px;
+        
+    }
+    .banner-img-wrap img {
+        width: 25%;
+    }
+    .banner-img1 {
+        top: 16% !important;
+        left: 35%;
+        margin-top: 40px;
+        border-radius: 33px;
+        -webkit-border-radius: 33px;
+        -moz-border-radius: 33px;
+        -ms-border-radius: 33px;
+        -o-border-radius: 33px;
+    }
+    .banner-img2 {
+        top: 16% !important;
+        left: 44%;
+        margin-top: 90px;
+        border-radius: 33px;
+        -webkit-border-radius: 33px;
+        -moz-border-radius: 33px;
+        -ms-border-radius: 33px;
+        -o-border-radius: 33px;
+    }
+    .wave {
+        bottom: -97px;
+    }
+    .banner h1 {
+        margin-top: 120px;
+        margin-right: 30px;
+        font-size: 2.5rem;
+    }
+    .banner p{
+        font-size: 16px;
+    }
+    .btn-white {
+        font-size: 1em;
+        padding: 10px 13px;
+    }
+    /* banner end */
+    /* feature start */
+    .feature-icon {
+        width: 110px;
+        height: 110px;
+    }
+    .feature-icon i {
+        font-size: 1.5rem;
+    }
+    /* feature end */
+    /* profile start */
+    .pro-box h4 {
+        font-size: 28px;
+    }
+    .pro-box p{
+        font-size: 16px;
+    }
+    
+    /* profile end */
+    /* communicate start */
+    .communicate-text p {
+        font-size: 16px;
+    }
+    /* communicate end */
+    /* apps start */
+    .apps h1 {
+        font-size: 2.5rem;
+    }
+    .button-group {
+        margin-top: 8%;
+    }
+    /* apps end */
+
+    /* footer start */
+    .footer-about p {
+        font-size: 16px;
+    }
+    /* footer end */ 
+    .fixed-fb{
+        position: absolute;
+        bottom: 140px;
+        top: -10px;
+        color: white;
+        font-size: 13px;
+        width: 173px;
+        height: 58px;
+        border-radius:0px 40px 40px 0px;
+        -webkit-border-radius:0px 40px 40px 0px;
+        -moz-border-radius:0px 40px 40px 0px;
+        -ms-border-radius:0px 40px 40px 0px;
+        -o-border-radius:0px 40px 40px 0px;
+    }
+}
+
+
+/* Medium devices (Tablates, 768px and up) */
+@media(min-width:768px) and (max-width:991.98px){
+    /* global css start */
+    .py-100{
+        padding: 50px 0px;
+    }
+    .pt-100{
+        padding-top: 50px;
+    }
+    .pb-100{
+        padding-bottom: 50px;
+    }
+    .sec-heading {
+        font-size: 2.2rem;
+    }
+    /* global css end */
+    /* banner start */
+    .banner {
+        min-height: 1000px;
+        
+    }
+    .banner-img-wrap img {
+        width: 25%;
+    }
+    .banner-img1 {
+        top: 16% !important;
+        left: 35%;
+        margin-top: 40px;
+        border-radius: 33px;
+        -webkit-border-radius: 33px;
+        -moz-border-radius: 33px;
+        -ms-border-radius: 33px;
+        -o-border-radius: 33px;
+    }
+    .banner-img2 {
+        top: 16% !important;
+        left: 44%;
+        margin-top: 90px;
+        border-radius: 33px;
+        -webkit-border-radius: 33px;
+        -moz-border-radius: 33px;
+        -ms-border-radius: 33px;
+        -o-border-radius: 33px;
+    }
+    .wave {
+        bottom: -80px;
+    }
+    .banner h1 {
+        margin-top: 120px;
+        margin-right: 30px;
+        font-size: 2.5rem;
+    }
+    .banner p{
+        font-size: 16px;
+    }
+    .btn-white {
+        font-size: 1em;
+        padding: 10px 13px;
+    }
+    /* banner end */
+    /* feature start */
+    .feature-icon {
+        width: 110px;
+        height: 110px;
+    }
+    .feature-icon i {
+        font-size: 1.5rem;
+    }
+    /* feature end */
+    /* profile start */
+    .pro-box h4 {
+        font-size: 28px;
+    }
+    .pro-box p{
+        font-size: 16px;
+    }
+    
+    /* profile end */
+    /* communicate start */
+    .communicate-text p {
+        font-size: 16px;
+    }
+    /* communicate end */
+    /* apps start */
+    .apps h1 {
+        font-size: 2.5rem;
+    }
+    .button-group {
+        margin-top: 8%;
+    }
+    /* apps end */
+
+    /* footer start */
+    .footer-about p {
+        font-size: 16px;
+    }
+    /* footer end */
+    .fixed-fb{
+        position: absolute;
+        bottom: 140px;
+        top: -10px;
+        color: white;
+        font-size: 13px;
+        width: 173px;
+        height: 58px;
+        border-radius:0px 40px 40px 0px;
+        -webkit-border-radius:0px 40px 40px 0px;
+        -moz-border-radius:0px 40px 40px 0px;
+        -ms-border-radius:0px 40px 40px 0px;
+        -o-border-radius:0px 40px 40px 0px;
+    }
+    
+}
+
+/* small devices (landscape phones, 992px and up) */
+@media(min-width:992px) and (max-width:1199.98px){
+    /* global css start */
+    .py-100{
+        padding: 80px 0px;
+    }
+    .pt-100{
+        padding-top: 80px;
+    }
+    .pb-100{
+        padding-bottom: 80px;
+    }
+    .sec-heading {
+        font-size: 2.7rem;
+    }
+    /* global css end */
+    /* banner start */
+    .banner {
+        min-height: 805px;
+        
+    }
+    .wave {
+        bottom: -56px;
+    }
+    .banner h1 {
+        margin-top: 120px;
+        margin-right: 30px;
+        font-size: 2.5rem;
+    }
+    .banner p{
+        font-size: 16px;
+    }
+    .btn-white {
+        font-size: 1em;
+        padding: 10px 13px;
+    }
+    /* banner end */
+    /* feature start */
+    .feature-icon {
+        width: 110px;
+        height: 110px;
+    }
+    .feature-icon i {
+        font-size: 1.5rem;
+    }
+    /* feature end */
+    /* profile start */
+    .pro-box h4 {
+        font-size: 28px;
+    }
+    .pro-box p{
+        font-size: 16px;
+    }
+    
+    /* profile end */
+    /* communicate start */
+    .communicate-text p {
+        font-size: 16px;
+    }
+    /* communicate end */
+    /* apps start */
+    .apps h1 {
+        font-size: 3rem;
+    }
+    /* apps end */
+
+    /* footer start */
+    .footer-about p {
+        font-size: 16px;
+    }
+    /* footer end */
+}
+
+/* small devices (landscape phones, 1200px and up) */
+@media(min-width:1200px) and (max-width:1399.98px){
+    
+}
+
+/* Custom (landscape phones, 1400px and up) */
+@media(min-width:1400px) and (max-width:1599.98px){
+    
+}
+
+/* custom devices (landscape phones, 1600px and up) */
+@media(min-width:1600px) and (max-width:1799.98px){
+    
+}
+
+/* Custom devices (landscape phones, 1800px and up) */
+@media(min-width:1800px){
+    
+}
